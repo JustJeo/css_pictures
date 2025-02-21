@@ -78,3 +78,8 @@ button:hover {
 .quater-page {
     width: 25%;
 }
+
+/* Version Number & Slogan */
+#version-number-and-slogan small {
+    display: block;
+}
