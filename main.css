@@ -79,6 +79,27 @@ button:hover {
     width: 25%;
 }
 
+/* Shapes */
+.circle {
+    border-radius: 50%;
+}
+
+/* Jeo Logo Image */
+#jeo-logo {
+    height: 300px;
+    width: 300px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#jeo-logo-circle {
+    background-color: white;
+    height: 250px;
+    width: 250px;
+}
+
 /* Version Number & Slogan */
 #version-number-and-slogan small {
     display: block;
