@@ -75,7 +75,7 @@ button:hover {
     width: 33%;
 }
 
-.quater-page {
+.quarter-page {
     width: 25%;
 }
 
@@ -84,7 +84,20 @@ button:hover {
     border-radius: 50%;
 }
 
+/* Gallery Images */
+.gallery-image {
+    background-color: white;
+    border: 5px black solid;
+    padding: 25px;
+}
+
 /* Jeo Logo Image */
+#gallery-image-1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 #jeo-logo {
     height: 300px;
     width: 300px;
