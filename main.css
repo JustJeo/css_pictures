@@ -127,6 +127,12 @@ button:hover {
     align-items: center;
 }
 
+#jeo-logo-white-inner-circle {
+    background-color: white;
+    height: 150px;
+    width: 150px;
+}
+
 /* Version Number & Slogan */
 #version-number-and-slogan small {
     display: block;
