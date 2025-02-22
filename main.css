@@ -111,8 +111,8 @@ button:hover {
 
 #jeo-logo-white-outer-circle {
     background-color: white;
-    height: 250px;
-    width: 250px;
+    height: 265px;
+    width: 265px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -120,8 +120,8 @@ button:hover {
 
 #jeo-logo-black-inner-circle {
     background-color: black;
-    height: 200px;
-    width: 200px;
+    height: 185px;
+    width: 185px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -129,8 +129,8 @@ button:hover {
 
 #jeo-logo-white-inner-circle {
     background-color: white;
-    height: 150px;
-    width: 150px;
+    height: 115px;
+    width: 115px;
 }
 
 /* Version Number & Slogan */
