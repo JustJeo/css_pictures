@@ -113,6 +113,18 @@ button:hover {
     background-color: white;
     height: 250px;
     width: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#jeo-logo-black-inner-circle {
+    background-color: black;
+    height: 200px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 /* Version Number & Slogan */
