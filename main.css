@@ -133,6 +133,12 @@ button:hover {
     width: 115px;
 }
 
+#jeo-logo-white-vertical-rectangle {
+    background-color: white;
+    height: 150px;
+    width: 75px;
+}
+
 #jeo-logo-black-vertical-rectangle {
     background-color: black;
     height: 100px;
